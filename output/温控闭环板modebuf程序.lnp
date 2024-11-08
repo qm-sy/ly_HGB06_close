@@ -1,0 +1,6 @@
+".\output\STARTUP.obj",
+".\output\恲諷最唗.obj",
+".\output\modbus.obj",
+".\output\crc.obj" 
+TO ".\output\恲諷敕遠啣modebuf最唗" 
+PRINT(".\恲諷敕遠啣modebuf最唗.m51") RAMSIZE(256) 
